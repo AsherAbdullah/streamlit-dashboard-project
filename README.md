@@ -1,4 +1,3 @@
-# streamlit-dashboard-project
 # Streamlit Dashboard Project
 
 ## 📌 Project Overview
