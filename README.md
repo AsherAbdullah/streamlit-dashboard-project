@@ -80,7 +80,7 @@ This project is licensed under the **MIT License**.
 ## 💬 Contact
 For any queries, feel free to reach out:
 📧 Email: asherabdullah08769gmail.com
-🔗 GitHub: [yourusername](https://github.com/AsherAbdullah)
+🔗 GitHub: https://github.com/AsherAbdullah
 
 ---
 🚀 **Let's build something amazing with Streamlit!** 🎈
